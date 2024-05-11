@@ -1,6 +1,5 @@
 
 **严肃声明：现在、未来都不会有商业版本，所有代码全部开源!！**
-
 **「我喜欢写代码，乐此不疲」**  
 **「我喜欢做开源，以此为乐」**
 
@@ -24,7 +23,7 @@
 
 **为什么推荐使用本项目？**
 
-① 本项目采用比 Apache 2.0 更宽松的 [MIT License](https://gitee.com/zhijiantianya/ruoyi-vue-pro/blob/master/LICENSE) 开源协议，个人与企业可 100% 免费使用，不用保留类作者、Copyright 信息。
+① 本项目采用比 Apache 2.0 更宽松的 [MIT License]开源协议，个人与企业可 100% 免费使用，不用保留类作者、Copyright 信息。
 
 ② 图书资料全部开源，不会像其他项目一样，只开源部分代码，让你无法了解整个项目的架构设计。[国产开源项目对比](https://www.yuque.com/xiatian-bsgny/lm0ec1/wqf8mn)
 
